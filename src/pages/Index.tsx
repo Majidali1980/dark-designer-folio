@@ -116,7 +116,7 @@ const Index = () => {
                       </li>
                       <li className="flex items-center">
                         <ArrowRight size={16} className="mr-2 text-design-teal" />
-                        AI Midjourney
+                        Adobe Illustrator
                       </li>
                     </ul>
                   </div>
